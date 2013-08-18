@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<nflSchedule week="1">
+  <matchup kickoff="1378427400" gameSecondsRemaining="3600">
+    <team id="BAL" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="DEN" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378659600" gameSecondsRemaining="3600">
+    <team id="NEP" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="BUF" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378659600" gameSecondsRemaining="3600">
+    <team id="OAK" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="IND" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378659600" gameSecondsRemaining="3600">
+    <team id="TBB" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="NYJ" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378659600" gameSecondsRemaining="3600">
+    <team id="MIA" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="CLE" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378659600" gameSecondsRemaining="3600">
+    <team id="KCC" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="JAC" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378659600" gameSecondsRemaining="3600">
+    <team id="TEN" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="PIT" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378659600" gameSecondsRemaining="3600">
+    <team id="CIN" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="CHI" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378659600" gameSecondsRemaining="3600">
+    <team id="MIN" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="DET" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378659600" gameSecondsRemaining="3600">
+    <team id="SEA" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="CAR" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378659600" gameSecondsRemaining="3600">
+    <team id="ATL" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="NOS" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378671900" gameSecondsRemaining="3600">
+    <team id="ARI" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="STL" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378671900" gameSecondsRemaining="3600">
+    <team id="GBP" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="SFO" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378686600" gameSecondsRemaining="3600">
+    <team id="NYG" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="DAL" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378768200" gameSecondsRemaining="3600">
+    <team id="PHI" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="WAS" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+  <matchup kickoff="1378779600" gameSecondsRemaining="3600">
+    <team id="HOU" isHome="0" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+    <team id="SDC" isHome="1" score="" rushDefenseRank="" passDefenseRank="" rushOffenseRank="" passOffenseRank="" hasPossession="0" inRedZone="0" />
+  </matchup>
+</nflSchedule>

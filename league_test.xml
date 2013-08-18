@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<league id="20375" name="ASXFFL" rosterSize="16" injuredReserve="0" taxiSquad="0" rostersPerPlayer="1" playerLimitUnit="LEAGUE" startWeek="1" endWeek="17" lastRegularSeasonWeek="14" precision="2" h2h="YES" leagueLogo="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_league_logo.jpg" bbidSeasonLimit="75" lockout="No" nflPoolStartWeek="1" minKeepers="1" tiebreaker="commish" maxKeepers="1" nflPoolEndWeek="17" standingsSort="PCT,H2H,PTS," nflPoolType="Pickem" loadRosters="fflm_draft">
+  <starters count="9" idp_starters="">
+    <position name="QB" limit="1" />
+    <position name="RB" limit="2-3" />
+    <position name="WR" limit="2-3" />
+    <position name="TE" limit="1-2" />
+    <position name="PK" limit="1" />
+    <position name="Def" limit="1" />
+  </starters>
+  <conferences count="2">
+    <conference id="00" name="American" />
+    <conference id="01" name="National" />
+  </conferences>
+  <divisions count="4">
+    <division id="00" name="North" conference="00" />
+    <division id="01" name="South" conference="00" />
+    <division id="02" name="East" conference="01" />
+    <division id="03" name="West" conference="01" />
+  </divisions>
+  <franchises count="16">
+    <franchise icon="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_icon0001.jpg" abbrev="WOZ" division="02" name="Wizards of Woz" iscommish="1" logo="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_logo0001.jpg" bbidAvailableBalance="75" id="0001" stadium="Wozniak Field" />
+    <franchise icon="http://www25.myfantasyleague.com/fflnetdynamic2011/13090_franchise_icon0002.jpg" abbrev="SS" division="00" name="Stubble Shavings" logo="http://www25.myfantasyleague.com/fflnetdynamic2011/13090_franchise_logo0002.jpg" bbidAvailableBalance="75" id="0002" />
+    <franchise icon="http://www25.myfantasyleague.com/fflnetdynamic2011/13090_franchise_icon0003.jpg" abbrev="RG" division="00" name="The Dude Abides" logo="http://www25.myfantasyleague.com/fflnetdynamic2011/13090_franchise_icon0003.jpg" bbidAvailableBalance="75" id="0003" />
+    <franchise icon="http://www3.whig.com/whig/blogs/ihavealottoshare/wp-content/uploads/2011/06/barrymanilow.jpg" abbrev="FF" division="00" name="The Fantastic Fanilows" logo="http://www3.whig.com/whig/blogs/ihavealottoshare/wp-content/uploads/2011/06/barrymanilow.jpg" bbidAvailableBalance="75" id="0004" />
+    <franchise icon="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_icon0005.jpg" abbrev="Goth" division="03" name="Gotham Rogues" logo="http://64.73.54.66/fflnetdynamic2012/44990_franchise_logo0005.jpg" bbidAvailableBalance="75" id="0005" />
+    <franchise icon="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_icon0006.jpg" abbrev="ADS" division="03" name="Adventure Seekers" logo="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_logo0006.jpg" bbidAvailableBalance="75" id="0006" stadium="Unified Field" />
+    <franchise icon="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_icon0007.jpg" abbrev="CRUS" division="03" name="Dream Crushers" bbidAvailableBalance="75" id="0007" />
+    <franchise icon="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_icon0008.jpg" abbrev="ACES" division="01" name="Smokin' Aces" bbidAvailableBalance="75" id="0008" />
+    <franchise icon="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_icon0009.jpg" abbrev="TU" division="01" name="The Untouchables" logo="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_logo0009.jpg" bbidAvailableBalance="75" id="0009" stadium="E Ness Stadium" />
+    <franchise icon="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_icon0010.jpg" abbrev="1MWP" division="02" name="The OneMan Wolfpack" logo="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_logo0010.jpg" bbidAvailableBalance="75" id="0010" />
+    <franchise icon="http://www25.myfantasyleague.com/fflnetdynamic2011/13090_franchise_icon0011.jpg" abbrev="CHZ$" division="02" name="CheeseMoney" logo="http://www25.myfantasyleague.com/fflnetdynamic2011/13090_franchise_logo0011.jpg" bbidAvailableBalance="75" id="0011" />
+    <franchise icon="http://www25.myfantasyleague.com/fflnetdynamic2012/44990_franchise_icon0012.jpg" abbrev="TD'S" division="02" name="Show Me Ur TD's" logo="http://www25.myfantasyleague.com/fflnetdynamic2012/44990_franchise_logo0012.jpg" bbidAvailableBalance="75" id="0012" />
+    <franchise icon="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_icon0013.jpg" abbrev="SA" division="01" name="Savage Animals" logo="http://www19.myfantasyleague.com/fflnetdynamic2013/20375_franchise_logo0013.jpg" bbidAvailableBalance="75" id="0013" />
+    <franchise icon="http://www25.myfantasyleague.com/fflnetdynamic2012/44990_franchise_icon0014.jpg" abbrev="CK" division="00" name="Mr. McGibblets" bbidAvailableBalance="75" id="0014" />
+    <franchise icon="http://www25.myfantasyleague.com/fflnetdynamic2011/13090_franchise_icon0015.jpg" abbrev="DBAG" division="03" name="D Bag Destroyers" logo="http://www25.myfantasyleague.com/fflnetdynamic2011/13090_franchise_icon0015.jpg" bbidAvailableBalance="75" id="0015" />
+    <franchise icon="http://www25.myfantasyleague.com/fflnetdynamic2012/44990_franchise_icon0016.jpg" abbrev="VmJ" division="01" name="Vick My Johnson" bbidAvailableBalance="75" id="0016" />
+  </franchises>
+  <history>
+    <league year="2013" url="http://football19.myfantasyleague.com/2013/home/20375" />
+    <league year="2008" url="http://football2.myfantasyleague.com/2008/home/73094" />
+    <league year="2009" url="http://football2.myfantasyleague.com/2009/home/14114" />
+    <league year="2010" url="http://football2.myfantasyleague.com/2010/home/22233" />
+    <league year="2011" url="http://football25.myfantasyleague.com/2011/home/13090" />
+    <league year="2012" url="http://football25.myfantasyleague.com/2012/home/44990" />
+  </history>
+</league>
